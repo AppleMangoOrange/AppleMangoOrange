@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AppleMangoOrange (aka MinerMark)
 - 👀 I’m interested in Java and Python coding
-- 🌱 I’m currently learning to make datapacks and use the Arduino Uno
+- 🌱 I’m currently learning to make Minecraft datapacks and use the Arduino Uno
 - 📖 Feel free to take a look at what I'm working on :)
 
 <!---
